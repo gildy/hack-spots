@@ -20,7 +20,7 @@ code {font-family: "Consolas", "Ubuntu Mono", monospace; line-height: 22px; font
 
 .red-text {color: #FD9393;}
 
-#map {height: 400px; max-width: 530px; min-width: 300px; background: #DADADA;}
+#map {height: 400px; max-width: 790px; min-width: 300px; background: #DADADA;}
 #map a {border: none;}
 
 .container {margin: 24px 0px;}
@@ -44,7 +44,7 @@ ul.nav li a:hover {border-bottom: 1px #FD9393 solid;}
 
 .leaflet-popup-content h2 {font-family: Lato; font-size: 14px; text-transform: uppercase;}
 
-#rightSide {height: 400px; max-width: 350px; width: 100%; float: right; padding-top: 5px;}
+#rightSide {height: 400px; max-width: 100px; width: 100%; float: right; padding-top: 5px;}
 #selectedSpot {display: none;}
 #latestSpot ul, #selectedSpot ul {list-style: none; margin-top: 12px 0px; padding: 0px;}
 .category {text-transform: uppercase; font-size: 9px; letter-spacing: .2em; padding-right: 6px;}
